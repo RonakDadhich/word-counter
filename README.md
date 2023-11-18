@@ -1,2 +1,1 @@
-# word-counter
-JAVASCRIPT PROJECT
+https://ronakdadhich.github.io/word-counter/
