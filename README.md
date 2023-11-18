@@ -1,0 +1,2 @@
+# word-counter
+JAVASCRIPT PROJECT
